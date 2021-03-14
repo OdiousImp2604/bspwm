@@ -2,6 +2,12 @@
 Community Edition 
 ***
 
+## Offical Repository - Use This
+
+https://github.com/EndeavourOS-Community-Editions/bspwm
+
+***
+
 ## To Install manually
 
     git clone https://github.com/OdiousImp2604/bspwm.git
